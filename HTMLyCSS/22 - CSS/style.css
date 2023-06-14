@@ -1,0 +1,12 @@
+/*Sintaxis de CSS
+Empezamos con el selector(Existen varios tipos, etiquetas HTML, por clase y por ID):
+-Por etiquetas(Ejemplo: p).
+-Abrimos el corchete {
+-Adentro de los corchetes van los estilos que deseamos cambiar, ejemplo: color: blue
+-Terminando de modificar un estilo cerramos con un punto y coma ;
+-Cerramos el corchete }
+*/
+p{
+    color: blue;
+    font-size: 30px;
+}
